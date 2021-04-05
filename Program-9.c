@@ -16,7 +16,10 @@
 	    // If checkOddEven() function returns 1 then the number is odd 
 	    if(checkOdd(n1))
 	    {
-	        //enter the printf statement
+	      printf("The enterd number is odd");
 	    }
-	    return 0;
+	    else {
+      printf("dont copy this");
+       }
+        return 0;
 	}
